@@ -1,0 +1,21 @@
+{
+  "name": "axios",
+  "version": "1.0.0",
+  "description": "Axios",
+  "main": "index.js",
+  "scripts": {
+    "test": "-"
+  },
+  "repository": {
+    "type": "git",
+    "url": "Day3"
+  },
+  "keywords": [
+    "-"
+  ],
+  "author": "Kenneth Alexander Jim's",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "axios": "^1.6.7"
+  }
+}

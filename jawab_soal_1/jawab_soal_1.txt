@@ -1,0 +1,6 @@
+Axios adalah sebuah klien HTTP berbasis promise untuk node.js dan browser yang digunakan. Utamanya, Axios berkaitan dengan HTTP Request.
+Axios bersifat isomorfik yang artinya Axios dapat jalan di browser dan di nodejs dengan basis kode yang sama.
+Axios sendiri memiliki macam-macam fitur yang dapat kita gunakan, misalnya membuat XMLHttpRequest dari sebuah web browser, membuat request
+HTTP melalui Node.js yang berguna untuk kode server-side. Lalu, Axios mampu untuk meng-intercept request dan response yang memungkinkan
+seorang developer untuk mengedit dan memanipulasi data sebelum sampai ke server/client. Axios juga dapat disetting untuk mengeset sebuah fitur timeout
+di mana HTTP request akan error bila melebihi batas waktu yang ditentukan. 
